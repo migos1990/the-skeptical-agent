@@ -61,10 +61,7 @@ Files in `.claude/rules/` auto-load every Claude Code session. No configuration 
 
 ## Origin
 
-Extracted from a production multi-agent system with 13 specialized agents and 74 skill files. The rules evolved from watching agents silently produce confident-sounding garbage — and building guardrails to catch it.
-
-<!-- TODO: Replace with LinkedIn post URL after publishing -->
-<!-- Blog post with context: [Sunday AI Digest #1](link-to-linkedin-post) -->
+Extracted from a production multi-agent system. The rules evolved from watching agents silently produce confident-sounding garbage and building guardrails to catch it.
 
 Karpathy's original LLM Wiki gist that inspired the knowledge layer: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
