@@ -18,7 +18,7 @@ These rules add guardrails:
 
 ```bash
 # Copy rules into your project
-git clone https://github.com/<your-username>/the-skeptical-agent.git /tmp/rules
+git clone https://github.com/migos1990/the-skeptical-agent.git /tmp/rules
 cp -r /tmp/rules/.claude/ your-project/.claude/
 
 # Or cherry-pick what you need

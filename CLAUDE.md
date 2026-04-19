@@ -12,7 +12,7 @@ Extracted from a production multi-agent system with 13 specialized agents, 74 sk
 
 ```bash
 # Clone into your project
-git clone https://github.com/<your-username>/claude-agent-rules.git /tmp/rules
+git clone https://github.com/migos1990/the-skeptical-agent.git /tmp/rules
 
 # Copy the rules you want
 cp -r /tmp/rules/.claude/rules/common/ your-project/.claude/rules/common/
